@@ -112,7 +112,3 @@ Julieta Cortés -> 3850.0
 2. Abrir el proyecto en IntelliJ IDEA.
 3. Ejecutar el archivo `Main.kt`.
 4. Observar la salida en la consola.
-
----
-
-© 2025 Proyecto educativo en Kotlin
